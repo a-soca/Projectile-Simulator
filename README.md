@@ -8,7 +8,7 @@
 This MATLAB application simulates and animates the real time trajectory of a projectile in 3d space after resolving multiple user defined vectors to determine the launch direction and force.
 The user is also presented with the option to add a wall which the projectile may collide with.
 
-# Features
+## Features
 - Standalone vector resolution panel
 - Multiple camera angles for trajectory
 - Real time trajectory plotting
